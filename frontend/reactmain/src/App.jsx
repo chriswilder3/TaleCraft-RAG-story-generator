@@ -1,11 +1,11 @@
 import './App.css'
-import Hero from './components/index/hero/Hero'
+import Index from './components/index/Index'
 
 function App() {
-
+  
   return (
     <>
-      <Hero />
+      <Index />
     </>
   )
 }
